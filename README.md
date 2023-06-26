@@ -16,4 +16,4 @@ Looking forward to start working.
 
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigoalb&theme=github_dark&hide_border=false"  width="400px" margin-left="50px" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigoalb&theme=dark&hide_border=false"  width="400px" margin-left="50px" />
