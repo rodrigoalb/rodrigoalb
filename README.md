@@ -12,7 +12,7 @@ Looking forward to start working.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigo-alba)
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=rodrigoalb&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false"  width="500px" />                    ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=rodrigoalb&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=rodrigoalb&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=rodrigoalb&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
