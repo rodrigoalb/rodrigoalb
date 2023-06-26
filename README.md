@@ -1,6 +1,6 @@
 # About me
 
-I am full stack developer living in São Paulo, Brazil.
+I am back-end developer living in São Paulo, Brazil.
 <br>
 <br>
 Looking forward to start working.
