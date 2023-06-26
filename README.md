@@ -1,4 +1,4 @@
-# 🚀 About me
+# About me
 
 I am backend developer living in São Paulo, Brazil.
 <br>
